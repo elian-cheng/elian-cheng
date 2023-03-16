@@ -2,7 +2,7 @@
 
 ### ✍️ About Me:
 
-I'm React Front-End developer with experience in creating SPA using React, Redux. Fluent speaker of English, Chinese and Ukrainian. I can easily work alone or in a team, even organise the team work myself (I was a team leader in our RS School final project [RS Clone](https://github.com/elian-cheng/rs-clone)). I'm constantly learning new technologies and improving my skills. 
+I'm React Front-End developer with experience in creating SPA using React, Redux. Fluent speaker of English, Chinese and Ukrainian. I can easily work alone or in a team, even organise the team's work myself (I was a team leader in our RS School final project [RS Clone](https://github.com/elian-cheng/rs-clone)). I'm constantly learning new technologies and improving my skills. 
 
 - 💻 In love with beautiful modern websites and JS projects development.
 - 💡  I’m looking for a job now as a Junior Front-End Developer (React TS).
@@ -31,6 +31,7 @@ I'm React Front-End developer with experience in creating SPA using React, Redux
       <img src="https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux-toolkit badge"/>
       <img src="https://img.shields.io/badge/RTK_Query-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="rtk-query badge"/>
       <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="react-query badge" />
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next badge" />
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge" />
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3 badge" />
       <img src="https://img.shields.io/badge/css_modules-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css-modules badge" />
