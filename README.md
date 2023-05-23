@@ -10,14 +10,16 @@
 
 👩‍💻 My areas of specialization include:
 
-• Programming with expertise in JavaScript, TypeScript, React, Node.js, and Next.js.
-• Creating beautiful UI, that captivates users.
-• Managing projects from concept to completion, ensuring successful delivery.
-• Teamwork and Cross-functional Communication
-• Meeting Deadlines and Working Under Pressure
-• Skilled in negotiations and delivering exceptional customer service.
+<ul>
+  <li>Programming with expertise in JavaScript, TypeScript, React, Node.js, and Next.js.</li>
+  <li>Creating beautiful UI, that captivates users.</li>
+  <li>Managing Projects from concept to completion, ensuring successful delivery.</li>
+  <li>Teamwork and Cross-functional Communication.</li>
+  <li>Meeting Deadlines and Working Under Pressure.</li>
+  <li>Skilled in Negotiations and delivering exceptional Customer Service.</li>
+</ul>
 
-🔎 I am currently open to new opportunities and professional connections. Feel free to reach out to me on LinkedIn® or via email at chernega.o@gmail.com.
+🔎 I am currently open to new opportunities and professional connections. Feel free to reach out to me on [LinkedIn®](https://www.linkedin.com/in/olga-chernega/) or via email at chernega.o@gmail.com.
 
 ### ⭐ CodeWars
 ![CW](https://www.codewars.com/users/elian-cheng/badges/large) 
