@@ -2,15 +2,22 @@
 
 ### ✍️ About Me:
 
-I'm React Front-End developer with experience in creating SPA using React, Redux. Fluent speaker of English, Chinese and Ukrainian. I can easily work alone or in a team, even organise the team's work myself (I was a team leader in our RS School final project [RS Clone](https://github.com/elian-cheng/rs-clone)). I'm constantly learning new technologies and improving my skills. 
+🌍 A creative person with rich life and work experience, having lived for 6 years in China before moving back to Ukraine. Accustomed to working with international clients, I possess excellent knowledge of English and Chinese.
 
-- 💻 In love with beautiful modern websites and JS projects development.
-- 💡  I’m looking for a job now as a Junior Front-End Developer (React TS).
-- 🎓 I’m currently attending [RS School React Course](https://rs.school/index.html)
-- 🌱 I’m planning to learn more about Node JS.
-- ✉️ You can contact me via telegram or email.
-- ⚡ Fun fact: originally I am a Chinese language interpreter.
-- 📄 To see more about me, visit my [CV](https://elian-cheng.github.io/CV/)
+📦 Initially, I worked in customer support and service sales (logistics and wholesale purchases). The start of the war in Ukraine gave me the opportunity to reassess my life prospects, and I decided to pursue my long-desired career in IT. For over a year, I have thrived in IT development, demonstrating significant progress and building an impressive portfolio of projects. You can explore my [CV](https://elian-cheng.github.io/CV/) for more details.
+
+💪 I am versatile in my abilities, capable of working independently or in a team. As a team leader in the [TS Academy project](https://github.com/elian-cheng/rs-clone), I have experience in organizing and managing teams.
+
+👩‍💻 My areas of specialization include:
+
+• Programming with expertise in JavaScript, TypeScript, React, Node.js, and Next.js.
+• Creating beautiful UI, that captivates users.
+• Managing projects from concept to completion, ensuring successful delivery.
+• Teamwork and Cross-functional Communication
+• Meeting Deadlines and Working Under Pressure
+• Skilled in negotiations and delivering exceptional customer service.
+
+🔎 I am currently open to new opportunities and professional connections. Feel free to reach out to me on LinkedIn® or via email at chernega.o@gmail.com.
 
 ### ⭐ CodeWars
 ![CW](https://www.codewars.com/users/elian-cheng/badges/large) 
