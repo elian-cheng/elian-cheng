@@ -11,12 +11,12 @@
 👩‍💻 My areas of specialization include:
 
 <ul>
-  <li>Programming with expertise in JavaScript, TypeScript, React, Node.js, and Next.js.</li>
-  <li>Creating beautiful UI, that captivates users.</li>
-  <li>Managing Projects from concept to completion, ensuring successful delivery.</li>
-  <li>Teamwork and Cross-functional Communication.</li>
-  <li>Meeting Deadlines and Working Under Pressure.</li>
-  <li>Skilled in Negotiations and delivering exceptional Customer Service.</li>
+  <li>🚀 Programming: Expertise in JavaScript, TypeScript, React, Node.js, and Next.js.</li>
+  <li>💡 Problem-Solving: Persistent and adept at overcoming challenges.</li>
+  <li>💪 Work Ethic: Strong dedication to tasks and customer satisfaction.</li>
+  <li>🤝 Teamwork: Collaborative and skilled in cross-functional communication.</li>
+  <li>⏰ Deadline Management: Efficient in meeting project timelines and working under pressure.</li>
+  <li>🔑 Negotiations & Customer Service: Proficient in negotiations and providing exceptional customer service.</li>
 </ul>
 
 🔎 I am currently open to new opportunities and professional connections. Feel free to reach out to me on [LinkedIn®](https://www.linkedin.com/in/olga-chernega/) or via email at chernega.o@gmail.com.
@@ -73,38 +73,39 @@
 ### 💼 Recent projects
 
 <details>
-<summary>TS Academy (RS Clone)</summary>
+<summary>TS Academy (team project)</summary>
 <p><b>Description</b>: TypeScript educational platform, where users can read lessons, pass the tests and play games, practice with algorithmical tasks and track their progress with statistics. Full-stack app: front-end - React, back-end - Node Express. Final group project at RS School (EPAM) for JS Front-End Course.</p>
-<p><b>Stack</b>: typescript, react, scss, react-hook-form, chart.js, dnd, node express, mongoDB, JWT, eslint, prettier</p>
-<p><a href="https://elian-team-rsclone.netlify.app/">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/rs-clone">Link to repo</a></p>
+<p><b>Stack</b>: typescript, react, scss, react-hook-form, chart.js, dnd, node express, mongoDB, mongoose, JWT, eslint, prettier</p>
+<p><a href="https://elian-team-rsclone.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/rs-clone" target="_blank">Link to repo</a></p>
+</details>
+
+<details>
+<summary>GraphiQL App (team project)</summary>
+<p><b>Description</b>: GraphQL browser plugin clone with additional features, like localization and user auth.</p>
+<p><b>Stack</b>: react, typescript, mui, react-hook-form, yup, redux, redux-toolkit, graphql, firebase auth, codemirror, i18next, eslint, prettier</p>
+<p><a href="https://elian-cheng-graphiql.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/graphiql-app" target="_blank">Link to repo</a></p>
+</details>
+
+<details>
+<summary>Airbnb Clone</summary>
+<p><b>Description</b>: the clone of the popular renting and booking platform - Airbnb. Features: authorization and authentication (Email, Google, GitHub), search and filters, booking, trips, properties, favorites.</p>
+<p><b>Stack</b>: react, typescript, query-string, zustand, next.js 13, next-auth, prisma, mongoDB, tailwind CSS, eslint, prettier, husky, axios, react-hook-form, cloudinary, Google and GitHub auth</p>
+<p><a href="https://rent-app-elian-cheng.vercel.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/airbnb-clone" target="_blank">Link to repo</a></p>
+</details>
+
+<details>
+<summary>Food Order</summary>
+<p><b>Description</b>: Food order app from multiple stores.
+Features: authorization and authentication, order the food from only 1 store at a time, shopping cart, coupons, checkout and login forms, choose address on Google Map</p>
+<p><b>Stack</b>: react, typescript, react router, react context, redux, redux toolkit, MUI, SCSS, node.js, node express, mongoose, mongoDB, JWT auth, react-hook-form, yup, Google map</p>
+<p><a href="https://elian-cheng-food-order.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/food-order" target="_blank">Link to repo</a></p>
 </details>
 
 <details>
 <summary>Online Store</summary>
 <p><b>Description</b>: vanilla TS SPA, no frameworks or libs. Implemented routing, query string, filters, sorting, catalog page, product page, shopping cart, checkout form, tests etc. - all basic functionality of the online store.</p>
 <p><b>Stack</b>: typescript, scss, noUISlider, jest, eslint, prettier</p>
-<p><a href="https://elian-cheng-elyte-online-store.netlify.app/">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/online-store-elyte">Link to repo</a></p>
-</details>
-
-<details>
-<summary>Async Race</summary>
-<p><b>Description</b>: racing cars app. Сommunication with a server (fetch, REST API), Async coding / Promises, JS Animations, DOM API.</p>
-<p><b>Stack</b>: typescript, css, OOP (classes), webpack, eslint, prettier</p>
-<p><a href="https://elian-cheng-async-race.netlify.app/">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/async-race">Link to repo</a></p>
-</details>
-
-<details>
-<summary>Song Bird</summary>
-<p><b>Description</b>: quiz App with audio-player and gallery, vanilla JS, no frameworks or libs.</p>
-<p><b>Stack</b>: javascript, scss, mpa</p>
-<p><a href="https://rolling-scopes-school.github.io/elian-cheng-JSFE2022Q3/songbird/">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/song-bird">Link to repo</a></p>
-</details>
-
-<details>
-<summary>Music Player</summary>
-<p><b>Description</b>: Full-stack app, simple music player, vanilla JS. Back-end - Node JS.</p>
-<p><b>Stack</b>: javascript, css, node js</p>
-<p><a href="https://elian-cheng.github.io/muselli-music-player/no-API">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/muselli-music-player/tree/main">Link to repo</a></p>
+<p><a href="https://elian-cheng-elyte-online-store.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/online-store-elyte" target="_blank">Link to repo</a></p>
 </details>
 
 ### 🔗 Contacts:
