@@ -4,7 +4,7 @@
 
 🌍 A creative person with rich life and work experience, having lived for 6 years in China before moving back to Ukraine. Accustomed to working with international clients, I possess excellent knowledge of English and Chinese.
 
-📦 Initially, I worked in customer support and service sales (logistics and wholesale purchases). The start of the war in Ukraine gave me the opportunity to reassess my life prospects, and I decided to pursue my long-desired career in IT. For over a year, I have thrived in IT development, demonstrating significant progress and building an impressive portfolio of projects. You can explore my [CV](https://elian-cheng.github.io/CV/) for more details.
+📦 Initially, I worked in customer support and service sales (logistics and wholesale purchases). The start of the war in Ukraine allowed me to reassess my life prospects, and I decided to pursue my long-desired career in IT. For over a year, I have thrived in IT development, demonstrating significant progress and building an impressive portfolio of projects. You can explore my [CV](https://elian-cheng.github.io/CV/) for more details.
 
 💪 I am versatile in my abilities, capable of working independently or in a team. As a team leader in the [TS Academy project](https://github.com/elian-cheng/rs-clone), I have experience in organizing and managing teams.
 
