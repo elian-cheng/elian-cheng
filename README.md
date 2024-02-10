@@ -62,7 +62,7 @@
       <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack badge" />
       <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite badge" />
       <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest badge" />
-      <img src="https://img.shields.io/badge/-Testing Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="cypress badge" />
+      <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress badge" />
       <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha badge" />
       <img src="https://img.shields.io/badge/-Testing Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="testing-library badge" />
       <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm badge" />
