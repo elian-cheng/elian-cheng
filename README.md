@@ -2,11 +2,11 @@
 
 ### ✍️ About Me:
 
-🌍 A creative person with rich life and work experience, having lived for 6 years in China before moving back to Ukraine. Accustomed to working with international clients, I possess excellent knowledge of English and Chinese.
+🌍 I'm Olga Chernega, Ukrainian full-stack web developer with over 2 years of IT experience in front-end and back-end development. A creative problem solver and team-oriented specialist who transforms ideas into action using modern technologies, clean code, and user-friendly design.
 
-📦 Initially, I worked in customer support and service sales (logistics and wholesale purchases). The start of the war in Ukraine allowed me to reassess my life prospects, and I decided to pursue my long-desired career in IT. For over a year, I have thrived in IT development, demonstrating significant progress and building an impressive portfolio of projects. You can explore my [CV](https://elian-cheng.github.io/CV/) for more details.
+📦 I'm fluent in English and Chinese, with a track record of effective communication and negotiations with international clients for over 8 years, ensuring compliance and adherence to deadlines, working in customer support and service sales. The start of the war in Ukraine made me reassess my life prospects, and I decided to pursue my long-desired career in IT. From that time on, I've been thriving in IT development, making significant progress and building an impressive portfolio of projects. You can explore my [CV]( https://olga-chernega-cv.vercel.app/) for more details.
 
-💪 I am versatile in my abilities, capable of working independently or in a team. As a team leader in the [TS Academy project](https://github.com/elian-cheng/rs-clone), I have experience in organizing and managing teams.
+💪 Those who have worked with me would attest to my ability to excel in diverse environments, working independently or in a team. I have expertise both in Front-End (JavaScript, TypeScript, React, Redux, Next.js) and Back-end (Node.js, Express.js, Nest.js, MySQL, PostgreSQL, MongoDB, DynamoDB). I'm able to develop and deploy a web application from scratch: design a server and a database architecture, create front-end UI. Proficient with Docker and AWS. As a team leader in the [TS Academy project](https://github.com/elian-cheng/rs-clone), I have experience in organizing and managing teams.
 
 👩‍💻 My areas of specialization include:
 
