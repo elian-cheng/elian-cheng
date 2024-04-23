@@ -99,6 +99,28 @@
 ### 💼 Recent projects
 
 <details>
+<summary>Elyte Online Store</summary>
+<p><b>Description</b>: Online store Elyte with admin panel. Implemented filters, sorting, catalog page, product page, shopping cart, checkout form, payments, orders, auth, tests etc. - all basic functionality of the online store.</p>
+<p><b>Stack</b>: typescript, react, express.js, redux, redux toolkit, tanstack query, MUI, jest, eslint, prettier, mongoose, mongoDB, JWT auth, react-hook-form, yup</p>
+<p><a href="https://elyte-store-elian.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/elyte-store" target="_blank">Link to repo</a></p>
+</details>
+
+<details>
+<summary>Airbnb Clone</summary>
+<p><b>Description</b>: the clone of the popular renting and booking platform - Airbnb. Features: authorization and authentication (Email, Google, GitHub), search and filters, booking, trips, properties, favorites.</p>
+<p><b>Stack</b>: react, typescript, query-string, zustand, next.js 13, next-auth, prisma, mongoDB, tailwind CSS, eslint, prettier, husky, axios, react-hook-form, cloudinary, Google and GitHub auth</p>
+<p><a href="https://rent-app-elian-cheng.vercel.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/airbnb-clone" target="_blank">Link to repo</a></p>
+</details>
+
+<details>
+<summary>RestIO (team project)</summary>
+<p><b>Description</b>: Restaurant management system for staff and customers.
+Features: authorization and authentication, choose and order the food from the menu, shopping cart, real-time meal cooking statuses, checkout and payments, restaurant personnel management</p>
+<p><b>Stack</b>: react, typescript, react router, redux, redux toolkit, SCSS, express.js, mongoose, mongoDB, JWT auth, react-hook-form, yup, storybook, openAI bot, S3, SSE</p>
+<p><a href="https://restio-front.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/restio/tree/main" target="_blank">Link to repo</a></p>
+</details>
+
+<details>
 <summary>TS Academy (team project)</summary>
 <p><b>Description</b>: TypeScript educational platform, where users can read lessons, pass the tests and play games, practice with algorithmical tasks and track their progress with statistics. Full-stack app: front-end - React, back-end - Node Express. Final group project at RS School (EPAM) for JS Front-End Course.</p>
 <p><b>Stack</b>: typescript, react, scss, react-hook-form, chart.js, dnd, node express, mongoDB, mongoose, JWT, eslint, prettier</p>
@@ -110,28 +132,6 @@
 <p><b>Description</b>: GraphQL browser plugin clone with additional features, like localization and user auth.</p>
 <p><b>Stack</b>: react, typescript, mui, react-hook-form, yup, redux, redux-toolkit, graphql, firebase auth, codemirror, i18next, eslint, prettier</p>
 <p><a href="https://elian-cheng-graphiql.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/graphiql-app" target="_blank">Link to repo</a></p>
-</details>
-
-<details>
-<summary>Airbnb Clone</summary>
-<p><b>Description</b>: the clone of the popular renting and booking platform - Airbnb. Features: authorization and authentication (Email, Google, GitHub), search and filters, booking, trips, properties, favorites.</p>
-<p><b>Stack</b>: react, typescript, query-string, zustand, next.js 13, next-auth, prisma, mongoDB, tailwind CSS, eslint, prettier, husky, axios, react-hook-form, cloudinary, Google and GitHub auth</p>
-<p><a href="https://rent-app-elian-cheng.vercel.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/airbnb-clone" target="_blank">Link to repo</a></p>
-</details>
-
-<details>
-<summary>Food Order</summary>
-<p><b>Description</b>: Food order app from multiple stores.
-Features: authorization and authentication, order the food from only 1 store at a time, shopping cart, coupons, checkout and login forms, choose address on Google Map</p>
-<p><b>Stack</b>: react, typescript, react router, react context, redux, redux toolkit, MUI, SCSS, node.js, node express, mongoose, mongoDB, JWT auth, react-hook-form, yup, Google map</p>
-<p><a href="https://elian-cheng-food-order.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/food-order" target="_blank">Link to repo</a></p>
-</details>
-
-<details>
-<summary>Online Store</summary>
-<p><b>Description</b>: vanilla TS SPA, no frameworks or libs. Implemented routing, query string, filters, sorting, catalog page, product page, shopping cart, checkout form, tests etc. - all basic functionality of the online store.</p>
-<p><b>Stack</b>: typescript, scss, noUISlider, jest, eslint, prettier</p>
-<p><a href="https://elian-cheng-elyte-online-store.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/online-store-elyte" target="_blank">Link to repo</a></p>
 </details>
 
 ### 🔗 Contacts:
